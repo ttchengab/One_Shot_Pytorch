@@ -6,7 +6,7 @@ Setup:
 
 2. Go to /python and extract the folder image_background.zip
 
-3. Set the root_dir in siamese.ipynb to the directory of the extracted folder for the datafolder to fetch the images.
+3. Set the root_dir in siamese.ipynb to the directory of the extracted folder for the dataloader to fetch the images.
 
 
 Dataset Format:
