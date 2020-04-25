@@ -8,6 +8,8 @@ Setup:
 
 3. Set the root_dir in siamese.ipynb to the directory of the extracted folder for the dataloader to fetch the images.
 
+4. Remember to remove all .DS_store with the command find . -name '.DS_Store' -type f -delete
+
 
 Dataset Format:
 
