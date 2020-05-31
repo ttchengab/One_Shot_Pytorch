@@ -14,7 +14,7 @@ Setup:
 
 Network Architecture:
 
-1. The network architecture currently follows the architecture given by http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf, but some additions and tuning of the hyperparameters and network structure for experimentation.
+1. The network architecture currently follows the architecture given by http://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf, with some additions and tuning of the hyperparameters and network structure for experimentation.
 
 An explanation of the code can be found here:
 
